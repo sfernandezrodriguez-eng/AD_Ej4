@@ -6,6 +6,33 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Descargas" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Descargas" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Descargas" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Descargas" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Descargas" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Descargas" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Descargas" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Descargas" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="home" level="project" />
   </component>
 </module>

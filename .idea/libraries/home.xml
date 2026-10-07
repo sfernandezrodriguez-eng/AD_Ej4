@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="home">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../.." />
+      <root url="file://$USER_HOME$/.local/share/Trash/files" />
+      <root url="file://$USER_HOME$/.local/share/Trash/files/AD_Ej4/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../AC_Ej3/src" />
+      <root url="file://$PROJECT_DIR$/../AC_Ficheiros2/src" />
+      <root url="file://$PROJECT_DIR$/../AC_Ficheros1/src" />
+      <root url="file://$PROJECT_DIR$/../AD_Ej3/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../Examen_Inicial_AC/src" />
+      <root url="file://$PROJECT_DIR$/../PSP Porfes Cabreados/src" />
+      <root url="file://$PROJECT_DIR$/../PSP_EJ3/src" />
+      <root url="file://$PROJECT_DIR$/../PSP_Ej1/src" />
+      <root url="file://$PROJECT_DIR$/../PSP_Ej2/src" />
+      <root url="file://$PROJECT_DIR$/../Tarea AD2 SergioFR 2DAM/src" />
+      <root url="file://$PROJECT_DIR$/../src" />
+    </SOURCES>
+  </library>
+</component>
